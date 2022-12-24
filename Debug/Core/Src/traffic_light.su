@@ -1,0 +1,3 @@
+traffic_light.c:17:6:traffic_light_init	8	static
+traffic_light.c:27:6:traffic_light_update1	24	static
+traffic_light.c:96:6:traffic_light_update2	24	static
